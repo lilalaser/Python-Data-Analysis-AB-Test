@@ -35,21 +35,20 @@ The dataset contains the following columns:
 
 3.2 Structure of the Analysis
 
-1. Data Preprocessing
-2. Grouping and Aggregating Data
-3. Ad Exposure Analysis
-4. Comparing Ad and PSA Groups
-5. Analyzing Peak Ad Hours
-6. Time of Day Analysis
-7. Combining Time and Ad Exposure
+- Data Preprocessing
+- Grouping and Aggregating Data
+- Ad Exposure Analysis
+- Comparing Ad and PSA Groups
+- Analyzing Peak Ad Hours
+- Time of Day Analysis
+- Combining Time and Ad Exposure
 
 
 4. Usage/Installation
 
-1. Clone the repository.
-2. Install required Python libraries (pandas, numpy).
-3. Run the Jupyter Notebook for analysis.
-
+- Clone the repository.
+- Install required Python libraries (pandas, numpy).
+- Run the Jupyter Notebook for analysis.
 
 
 
