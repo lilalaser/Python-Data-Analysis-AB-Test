@@ -44,7 +44,12 @@ The dataset contains the following columns:
 - Combining Time and Ad Exposure
 
 
-4. Usage/Installation
+4. Key Findings
+   
+- Exposure to ads led to a higher purchase rate compared to exposure to PSAs. 
+- The time of day and frequency of ad exposure played significant roles in purchase behavior.
+
+5. Usage/Installation
 
 - Clone the repository.
 - Install required Python libraries (pandas, numpy).
@@ -52,6 +57,6 @@ The dataset contains the following columns:
 
 
 
-5. Contact
+6. Contact
 
 For questions or contributions, please contact me through github. Thank you and enjoy ;)
