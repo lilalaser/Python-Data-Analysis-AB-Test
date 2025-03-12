@@ -44,7 +44,6 @@ The dataset contains the following columns:
 7. Combining Time and Ad Exposure
 
 
-
 4. Usage/Installation
 
 1. Clone the repository.
